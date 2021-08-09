@@ -1,0 +1,84 @@
+D:\BT_CN.NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+D:\BT_CN.NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+D:\BT_CN.NET\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.Form1.resources
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.Home.resources
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.ADMIN.resources
+D:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.information.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.ADMIN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.Form1.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.Home.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.ThemNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.ADMIN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.Form1.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.GUI.formDanhSachCacKho.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.Home.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.GUI.themPhieuNhapHang.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.GUI.tinhLuongNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.lichSuNhanLuong.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.ThemNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.information.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\bin\Debug\vi-VN\DO_AN.resources.dll
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.ADMIN.vi-VN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\vi-VN\DO_AN.resources.dll
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)\DO_AN\obj\Debug\DO_AN.GUI.chiTietHD.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\bin\Debug\DO_AN.exe.config
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\bin\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\bin\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\bin\Debug\vi-VN\DO_AN.resources.dll
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.ADMIN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.chiTietHD_ADMIN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.Form1.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.formDanhSachCacKho.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.Home.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.ThemHD.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.themPhieuNhapHang.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.ThemSP.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.themVLDaCoTrongCuaHang.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.tinhLuongNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.lichSuNhanLuong.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.ThemNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.ADMIN.vi-VN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.csproj.GenerateResource.Cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\vi-VN\DO_AN.resources.dll
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.exe
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.pdb
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.csprojResolveAssemblyReference.cache
+C:\Users\Duy\OneDrive\Máy tính\DO_AN(moi)0\DO_AN\obj\Debug\DO_AN.GUI.quenMK.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\bin\Debug\vi-VN\DO_AN.resources.dll
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.chiTietHD_ADMIN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.quenMK.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.formDanhSachCacKho.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.ThemHD.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.themPhieuNhapHang.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.ThemSP.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.themVLDaCoTrongCuaHang.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.GUI.tinhLuongNV.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.lichSuNhanLuong.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\DO_AN.ADMIN.vi-VN.resources
+C:\Users\Duy\OneDrive\Máy tính\DO_AN\DO_AN\obj\Debug\vi-VN\DO_AN.resources.dll
+E:\BT_CN.NET\DO_AN\DO_AN\bin\Debug\DO_AN.exe.config
+E:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.exe
+E:\BT_CN.NET\DO_AN\DO_AN\obj\Debug\DO_AN.pdb
